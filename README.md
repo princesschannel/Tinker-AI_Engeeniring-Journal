@@ -11,9 +11,9 @@
 What did I do yesterday?
 - What I did yesterday was practice React basic concepts, Tailwind CSS, and using LLM with that.
 - I also did prompt engineering to jailbreak my classmates' persona.
-What will I do today?
+## What will I do today?
 - Today, I will learn  how to create a UI/UX design with Figma and frontend development.
-What are my blockers?
+## What are my blockers?
 - None so far.
 
 ## (Day 7)
@@ -27,9 +27,9 @@ What are my blockers?
 ## Morning Stand-Up:
 What did I do yesterday?
 - What I did yesterday was to create a UI/UX design with Figma and frontend development, creating  a chatbot.
-What will I do today?
+## What will I do today?
 - Today, I will learn how to work with a chatbot using API integration and logic.
-What are my blockers?
+## What are my blockers?
 - I had a little difficulty editing the chatbot using Figma.
 
 
@@ -43,9 +43,9 @@ What are my blockers?
 ## Morning Stand-Up:
 ### What did I do yesterday?
 - I created a chatbot using API integration and logic.
-What will I do today?
+## What will I do today?
 - Today, I will focus on quality assurance and polishing my chatbot.
-What are my blockers?
+## What are my blockers?
 - None so far.
 
 ## (Day 9)
@@ -60,9 +60,9 @@ What are my blockers?
 ## Morning Stand-Up:
 What did I do yesterday?
 - I finalized the design of my chatbot and successfully deployed it.
-What will I do today?
+## What will I do today?
 -I will present my chatbot today.
-What are my blockers?
+## What are my blockers?
 - My blocker was having difficulty improving and fixing my chatbot design.
 
 # (Day 10)
