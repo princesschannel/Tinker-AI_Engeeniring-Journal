@@ -2,7 +2,7 @@
 ## Week 2
 ## (Day 6)
 
-<img width="1918" height="1027" alt="Week2(day6)" src="https://github.com/user-attachments/assets/d16ae9bc-c268-4609-b376-b83551561ba3" />
+<img width="1202" height="648" alt="Screenshot 2026-02-13 092156" src="https://github.com/user-attachments/assets/571d83dd-02b6-47df-9b70-f1f0543213a5" />
 
 - This is created through basic React concepts and Tailwind CSS.
 
@@ -19,7 +19,7 @@ What are my blockers?
 ## (Day 7)
 
 
-<img width="567" height="792" alt="bluebeyondbounderies" src="https://github.com/user-attachments/assets/d43cf359-e220-4f52-9322-ff63fed15b5d" />
+<img width="1249" height="768" alt="Screenshot 2026-02-11 092131" src="https://github.com/user-attachments/assets/e2163572-1f5d-47c8-9d9b-0e38b4e4f2c9" />
 
 - This is designed by UI & UX WITH Figma.
 
@@ -35,7 +35,7 @@ What are my blockers?
 
 ## (Day 8)
 
-<img width="1919" height="948" alt="TinkerAI_Day 9" src="https://github.com/user-attachments/assets/5e712929-a1a3-4399-8828-61f50ee24f3f" />
+<img width="1919" height="953" alt="Screenshot 2026-02-11 093631" src="https://github.com/user-attachments/assets/86d54a4e-470d-4491-bb0f-07ad2077822f" />
 
 - I developed my chatbot using API integration and logic.
 
@@ -50,11 +50,10 @@ What are my blockers?
 
 ## (Day 9)
 
-<img width="1919" height="1029" alt="chatbot" src="https://github.com/user-attachments/assets/995f4f1e-3cd3-4af4-87e5-6505e5e7c8d6" />
- This is the chatbot.
-
-
-<img width="1919" height="1025" alt="landingpage" src="https://github.com/user-attachments/assets/39a023f8-4191-492f-bbe5-2e26c315928a" />
+<img width="1919" height="1029" alt="Screenshot 2026-02-12 155901" src="https://github.com/user-attachments/assets/9fe06e74-5fa2-492a-9c62-c3b0a78c68e3" />
+ - This is the chatbot.
+   
+<img width="1919" height="1025" alt="landingpage" src="https://github.com/user-attachments/assets/4c48081c-3e29-4a92-a96d-d2646081954c" />
 - This is the landing page.
 
 # (Day 10)
