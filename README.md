@@ -41,7 +41,7 @@ What are my blockers?
 
 # (Day 9)
 ## Morning Stand-Up:
-What did I do yesterday?
+### What did I do yesterday?
 - I created a chatbot using API integration and logic.
 What will I do today?
 - Today, I will focus on quality assurance and polishing my chatbot.
@@ -64,5 +64,7 @@ What will I do today?
 -I will present my chatbot today.
 What are my blockers?
 - My blocker was having difficulty improving and fixing my chatbot design.
+
+
 
   
