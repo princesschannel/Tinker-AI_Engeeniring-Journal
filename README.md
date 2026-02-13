@@ -65,6 +65,16 @@ What will I do today?
 What are my blockers?
 - My blocker was having difficulty improving and fixing my chatbot design.
 
+# (Day 10)
 
+  <img width="1269" height="796" alt="designs" src="https://github.com/user-attachments/assets/487bbf66-7a78-4e4c-a0dd-89c68d9883cb" />
 
+ - Figma designs.
   
+  <img width="1919" height="1030" alt="Screenshot 2026-02-13 130005" src="https://github.com/user-attachments/assets/3ef1a2cf-0f29-4732-8f36-26772b4d4d4d" />
+
+ - My code.
+  
+ <img width="1919" height="990" alt="Screenshot 2026-02-13 130038" src="https://github.com/user-attachments/assets/470d5934-177e-4afb-bc03-fd036f97b028" />
+
+ - Netlify.
